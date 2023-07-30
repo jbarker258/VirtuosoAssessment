@@ -1,0 +1,15 @@
+C:\Code\VirtuosoAssessment\VirtuosoAssessment\bin\Debug\net7.0\VirtuosoAssessment.exe
+C:\Code\VirtuosoAssessment\VirtuosoAssessment\bin\Debug\net7.0\VirtuosoAssessment.deps.json
+C:\Code\VirtuosoAssessment\VirtuosoAssessment\bin\Debug\net7.0\VirtuosoAssessment.runtimeconfig.json
+C:\Code\VirtuosoAssessment\VirtuosoAssessment\bin\Debug\net7.0\VirtuosoAssessment.dll
+C:\Code\VirtuosoAssessment\VirtuosoAssessment\bin\Debug\net7.0\VirtuosoAssessment.pdb
+C:\Code\VirtuosoAssessment\VirtuosoAssessment\obj\Debug\net7.0\VirtuosoAssessment.csproj.AssemblyReference.cache
+C:\Code\VirtuosoAssessment\VirtuosoAssessment\obj\Debug\net7.0\VirtuosoAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\VirtuosoAssessment\VirtuosoAssessment\obj\Debug\net7.0\VirtuosoAssessment.AssemblyInfoInputs.cache
+C:\Code\VirtuosoAssessment\VirtuosoAssessment\obj\Debug\net7.0\VirtuosoAssessment.AssemblyInfo.cs
+C:\Code\VirtuosoAssessment\VirtuosoAssessment\obj\Debug\net7.0\VirtuosoAssessment.csproj.CoreCompileInputs.cache
+C:\Code\VirtuosoAssessment\VirtuosoAssessment\obj\Debug\net7.0\VirtuosoAssessment.dll
+C:\Code\VirtuosoAssessment\VirtuosoAssessment\obj\Debug\net7.0\refint\VirtuosoAssessment.dll
+C:\Code\VirtuosoAssessment\VirtuosoAssessment\obj\Debug\net7.0\VirtuosoAssessment.pdb
+C:\Code\VirtuosoAssessment\VirtuosoAssessment\obj\Debug\net7.0\VirtuosoAssessment.genruntimeconfig.cache
+C:\Code\VirtuosoAssessment\VirtuosoAssessment\obj\Debug\net7.0\ref\VirtuosoAssessment.dll
